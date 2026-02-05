@@ -6,7 +6,7 @@ package test.inclass;
 
 /**
  *
- * @author gun78
+ * @author akshat
  */
 public class InClass {
 
