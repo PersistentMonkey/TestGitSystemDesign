@@ -33,4 +33,11 @@ public class InClass {
     public void setTitle(String title) {
         this.title = title;
     }
+    
+        public double add(double a, double b)
+        {
+            return a+b;
+        }
 }
+    
+
